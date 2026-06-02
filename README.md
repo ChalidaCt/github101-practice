@@ -21,7 +21,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
-| นางสาวชลิดา ฉิมทิม | Team 02 | Product / UX | [example evidence](docs/evidence/example-student.md) | - |
+| นางสาวชลิดา ฉิมทิม | Team 02 | Product / UX |https://github.com/ChalidaCt/github101-practice/blob/main/docs/evidence/Chalida-67050551.md | - |
 
 ---
 
